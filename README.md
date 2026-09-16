@@ -3,8 +3,7 @@
 ## Project Overview
 This project features an interactive financial dashboard built to give a clear, high-level view of company performance. It shows key metrics like revenue, costs, net results, and profit margins over time. The goal was to take raw transaction logs and turn them into simple, visual insights that help monitor business health and identify spending trends.
 
-"C:\Users\49419718840\Pictures\Screenshots\project_photo.png"
-
+![Dashboard Preview](project_photo.png)
 ## Tools and Workflow
 * **Power BI Desktop:** Built the visual layout, designed the data model, and configured interactive report elements.
 * **Power Query (M):** Handled the data preparation steps:
